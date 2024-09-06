@@ -37,11 +37,7 @@ Pasos para usar el programa con Python:
    
         * Descarga la última versión de Python desde python.org.
         * Durante la instalación, asegúrate de seleccionar la opción "Add Python to PATH".
-        * Una vez instalado, abre una terminal (cmd o PowerShell) y verifica la instalación ejecutando:
-
-        bash
-
-    python --version
+        * Una vez instalado, abre una terminal (cmd o PowerShell) y verifica la instalación ejecutando: python --version
 
    
    ### Descargar el script y los requisitos:
