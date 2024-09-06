@@ -9,11 +9,11 @@ La forma más sencilla de utilizar CertiGenerator es descargando el ejecutable. 
 
 Pasos para usar el ejecutable:
 
-    ### Descargar el ejecutable:
+### Descargar el ejecutable:
     
-        Descarga el programa ejecutable desde el siguiente enlace: [Descargar Ejecutable](https://drive.google.com/file/d/12NCg_faFQ0Btc8UQhJXU5Cc_xKjEVMck/view?usp=sharing).
+        https://drive.google.com/file/d/12NCg_faFQ0Btc8UQhJXU5Cc_xKjEVMck/view?usp=sharing
 
-    ### Ejecutar el programa:
+### Ejecutar el programa:
     
         Abre el archivo descargado y sigue los siguientes pasos:
         
