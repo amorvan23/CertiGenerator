@@ -40,28 +40,26 @@ Pasos para usar el programa con Python:
         * Una vez instalado, abre una terminal (cmd o PowerShell) y verifica la instalación ejecutando: python --version
 
    
-   ### Descargar el script y los requisitos:
+   ### Descargar el script:
 
-    * Descarga el script certi_generator.py desde el siguiente enlace: Descargar Script.
-    * Descarga el archivo de requisitos para instalar las dependencias necesarias: Descargar Requisitos.
+       https://github.com/amorvan23/CertiGenerator/blob/main/certi_generator.py
+
+   ### Descargar archivo de dependencias
+
+       https://github.com/amorvan23/CertiGenerator/blob/main/requirements.txt
 
    
    ### Instalar las dependencias:
 
     Abre la terminal y navega hasta la carpeta donde descargaste el script y el archivo requirements.txt. Luego ejecuta:
-
-    bash
-
     pip install -r requirements.txt
 
    
    ### Ejecutar el programa:
 
     Una vez instaladas las dependencias, ejecuta el programa con el siguiente comando:
-
-    bash
-
-        python certi_generator.py
+    
+    python certi_generator.py
 
     ### Uso del programa:
     
