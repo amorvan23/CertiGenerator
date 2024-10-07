@@ -1,8 +1,7 @@
 Tutorial para sincronizar un fichero remoto desde un FTP a un directorio Local
 
 
-Paso 1: Descargar el ejecutable desde:  https://drive.google.com/file/d/13BSDNlttA-bw2E7IhHUL1eeGC1Xx1dwR/view?usp=drive_link
-
+Paso 1: Descargar el ejecutable desde:  https://drive.google.com/file/d/13BSDNlttA-bw2E7IhHUL1eeGC1Xx1dwR/view?usp=sharing
 Paso 2: Situar el ejecutable en el directorio deseado
 
 Paso 3: Ejecutar el .exe
