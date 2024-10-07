@@ -1,28 +1,51 @@
+Tutorial para sincronizar un fichero remoto desde un FTP a un directorio Local
+
+
 Paso 1: Descargar el ejecutable desde:  https://drive.google.com/file/d/13BSDNlttA-bw2E7IhHUL1eeGC1Xx1dwR/view?usp=drive_link
+
 Paso 2: Situar el ejecutable en el directorio deseado
+
 Paso 3: Ejecutar el .exe
+
 Paso 4: La primera vez que se ejecuta va a fallar, debido a que necesita de la configuración de las variables de entorno. (En la primera ejecución, se crea un config.ini en el mismo directorio del script)
+
 Paso 5: Configurar el .ini
 
 Ejemplo .ini:
 
 
 [FTP]
-host = host_ftp
+
+Host = host_ftp
+
 port = 21
+
 user = prohibidos
+
 password = password_ftp
+
 protocol = ftp
 
+
 [LOCAL]
+
 download_path = C:/Users/Default/Downloads/
+
 remote_file = prohibidos.csv
 
+
 [MYSQL]
+
 host = host_mysql
+
 database = prohibidos_descargas
+
 user = user_mysql
+
 password = password_mysql
+
+
+
 
 
 Paso 6: Una vez configurado y gurdado el fichero, ya podemos ejecutar el .exe
